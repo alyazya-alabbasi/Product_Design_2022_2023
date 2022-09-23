@@ -6,6 +6,10 @@
 - [ ] build the clock face
 - [ ] add the clock hands and implement the functional apsects
 
+## exploration
+<img src="mood_board.png"
+     style="float: left; margin-right: 10px; width:30%" />
+
 ## Design process
 <img src="D_1.png"
      style="float: left; margin-right: 10px; width:30%" />
