@@ -1,2 +1,2 @@
-# Products 2022-2023 🖋
+# Products 2022-2023 👩🏻‍💻
 This repositry houses the project documentation for my projects
