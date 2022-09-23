@@ -1,8 +1,8 @@
 # Clock Design
 ## Goals
-- [ ] explore variations of islamic design
-- [ ] create a few designs of clock faces inspired by islamic design
-- [ ] pick clock material
+- [x] explore variations of islamic design
+- [x] create a few designs of clock faces inspired by islamic design
+- [x] pick clock material
 - [ ] build the clock face
 - [ ] add the clock hands and implement the functional apsects
 
