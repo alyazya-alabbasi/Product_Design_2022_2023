@@ -2,5 +2,5 @@
 
 projects    |   description        
 ---         |   ---             
-[portrait](https://editor.p5js.org/Nouf-Alabbasi/sketches/JPmUfgLaw)      |   **created a portrait using shapes in p5js**       
-project 2    |   **desc**       
+[portrait](https://editor.p5js.org/alyazyaabbasi/sketches/CNO-Jvmo3n)      |   **created a portrait using shapes in p5js**       
+   
