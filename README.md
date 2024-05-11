@@ -3,8 +3,8 @@ This repositry houses the project documentation for my projects
 
 ## design project
 * [clock](https://github.com/alyazya-alabbasi/Projects/tree/main/Design/Clock) - 2D design, laser cutter
-* [speaker](https://github.com/alyazya-alabbasi/Projects/blob/main/Design/speaker/Aljazia_Alabbasi%20-Mini%20speaker-%20DIGITAL%20PORTFOLIO%20Grade%208%20MYP%20Product%20Design.pdf) - solduring, 2d design, prototype, elctrical design
-* [car](https://github.com/alyazya-alabbasi/Projects/blob/main/Design/F1_Car/Fusion_360_project_Raven%20Design%20presentation.pdf) - fusion 360, 3D protoyping, airodynamic testing
+* [speaker](https://github.com/alyazya-alabbasi/Projects/blob/main/Design/speaker/Aljazia_Alabbasi%20-Mini%20speaker-%20DIGITAL%20PORTFOLIO%20Grade%208%20MYP%20Product%20Design.pdf) - soldering, 2d design, prototype, electrical design
+* [car](https://github.com/alyazya-alabbasi/Projects/blob/main/Design/F1_Car/Fusion_360_project_Raven%20Design%20presentation.pdf) - fusion 360, 3D prototyping, aerodynamic testing
 
 ## coding
 * game design
@@ -15,5 +15,5 @@ This repositry houses the project documentation for my projects
  
 ## Art projects
 * [mark-making/stipling](https://github.com/alyazya-alabbasi/Projects/tree/main/Art/stipling)
-* [oil pastles](https://github.com/alyazya-alabbasi/Projects/tree/main/Art/oil_pastles)
+* [oil pastels](https://github.com/alyazya-alabbasi/Projects/tree/main/Art/oil_pastels)
 * [Mixed media](https://github.com/alyazya-alabbasi/Projects/tree/main/Art/mixed%20media)
