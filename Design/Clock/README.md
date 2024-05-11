@@ -3,8 +3,8 @@
 - [x] explore variations of islamic design
 - [x] create a few designs of clock faces inspired by islamic design
 - [x] pick clock material
-- [ ] build the clock face
-- [ ] add the clock hands and implement the functional apsects
+- [x] build the clock face
+- [x] add the clock hands and implement the functional apsects
 
 ## exploration
 <img src="mood_board.png"
